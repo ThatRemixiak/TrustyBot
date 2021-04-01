@@ -17,6 +17,6 @@ Basic link `api.trustybot.xyz`
 #### What can I fetch with API
 
 You can fetch:
-- Server Statistics - `api.trustybot.xyz/servers/server_id/all`
-- Bot Statistics - `api.trustybot.xyz/bot/all`
-- Level Statistics - `api.trustybot.xyz/servers/server_id/level` 
+- Server Statistics - ```javascript GET api.trustybot.xyz/servers/server_id/all```
+- Bot Statistics - ```javascript GET api.trustybot.xyz/bot/all```
+- Level Statistics - ```javascript GET api.trustybot.xyz/servers/server_id/level```
