@@ -13,6 +13,8 @@
 
 Basic link `api.trustybot.xyz`
 
+As bot is not available api is not available too!
+
 
 #### What can I fetch with API
 
