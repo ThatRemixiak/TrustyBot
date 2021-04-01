@@ -29,3 +29,7 @@ GET api.trustybot.xyz/bot/all
 ```javascript
 GET api.trustybot.xyz/servers/server_id/level
 ```
+- Bans
+```javascript
+GET api.trustybot.xyz/servers/server_id/bans
+```
