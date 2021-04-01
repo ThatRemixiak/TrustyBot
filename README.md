@@ -13,7 +13,7 @@
 
 Basic link `api.trustybot.xyz`
 
-As bot is not available api is not available too!
+API Status: Offline
 
 
 #### What can I fetch with API
