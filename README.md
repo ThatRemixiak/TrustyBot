@@ -33,3 +33,15 @@ GET api.trustybot.xyz/servers/server_id/level
 ```javascript
 GET api.trustybot.xyz/servers/server_id/bans
 ```
+
+### Other
+
+#### Bugs
+- Report them in issues tab
+
+#### Beta testing
+- If you want to beta-test bot - Contact Remixiak on Discord
+
+#### Contact
+- Discord: Remixiak#4945
+- Partnership: kontakt@remixiak.pl
